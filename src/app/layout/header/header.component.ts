@@ -8,13 +8,13 @@ import { LayoutService } from '../service/layout-service';
 })
 export class HeaderComponent {
 
-  items!: any[];
+  // items!: any[];
 
-  @ViewChild('menubutton') menuButton!: ElementRef;
+  // @ViewChild('menubutton') menuButton!: ElementRef;
 
-  @ViewChild('topbarmenubutton') topbarMenuButton!: ElementRef;
+  // @ViewChild('topbarmenubutton') topbarMenuButton!: ElementRef;
 
-  @ViewChild('topbarmenu') menu!: ElementRef;
+  // @ViewChild('topbarmenu') menu!: ElementRef;
 
-  constructor(public layoutService: LayoutService) { }
+  // constructor(public layoutService: LayoutService) { }
 }
